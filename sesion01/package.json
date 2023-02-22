@@ -1,0 +1,19 @@
+{
+  "name": "sesion01",
+  "version": "1.0.0",
+  "description": "mi primer  proyecto con Node",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "browser-sync src --watch"
+  },
+  "keywords": [
+    "node",
+     "js",
+     "javascript"
+  ],
+  "author": "Gaston Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.27.11"
+  }
+}
